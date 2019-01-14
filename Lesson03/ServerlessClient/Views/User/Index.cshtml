@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ServerlessClient.Models.Transaction>
+
+<h2>Transactions</h2>
+<table class="table">
+    <tr>
+        <th>Amount</th>
+        <th>Time of Transaction</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Amount
+            </td>
+            <td>
+                @item.ExecutionTime
+            </td>
+        </tr>
+    }
+
+</table>
+@{
+    Html.RenderAction("Create", "Transaction");
+}

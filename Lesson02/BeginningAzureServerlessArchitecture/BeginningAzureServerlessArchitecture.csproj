@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="GetTransactions.cs" />
+    <Compile Remove="GetTransactionsExBStep2.cs" />
+    <Compile Remove="GetTransactionsExBStep4.cs" />
+    <Compile Remove="GetTransactionsExBStep5.cs" />
+    <Compile Remove="GetTransactionsExBStep6.cs" />
+    <Compile Remove="GetTransactionsExBStep7.cs" />
+    <Compile Remove="GetUsers.cs" />
+    <Compile Remove="PostTransactionsExAStart.cs" />
+    <Compile Remove="PostTransactionsExAStep2.cs" />
+    <Compile Remove="PostTransactionsExCStep3.cs" />
+    <Compile Remove="PostTransactionsExCStep5.cs" />
+    <Compile Remove="PostTransactionsExCStep6.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GetUsers.cs" />
+    <None Include="GetTransactions.cs" />
+    <None Include="GetTransactionsExBStep2.cs" />
+    <None Include="GetTransactionsExBStep4.cs" />
+    <None Include="GetTransactionsExBStep5.cs" />
+    <None Include="GetTransactionsExBStep7.cs" />
+    <None Include="GetTransactionsExBStep6.cs" />
+    <None Include="PostTransactionsExAStart.cs" />
+    <None Include="PostTransactionsExAStep2.cs" />
+    <None Include="PostTransactionsExCStep3.cs" />
+    <None Include="PostTransactionsExCStep5.cs" />
+    <None Include="PostTransactionsExCStep6.cs" />
+  </ItemGroup>
+  <ItemGroup>    
+    <PackageReference Include="Microsoft.ApplicationInsights" Version="2.5.0" />    
+    <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.DocumentDB" Version="1.0.0" />    
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="1.0.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>

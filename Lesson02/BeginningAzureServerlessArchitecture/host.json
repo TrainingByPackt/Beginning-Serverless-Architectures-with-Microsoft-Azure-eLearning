@@ -1,0 +1,6 @@
+{
+  "isEncrypted": false,
+  "Values": {
+    "CosmosDBConnectionString":  "Your key here"
+  }
+}
