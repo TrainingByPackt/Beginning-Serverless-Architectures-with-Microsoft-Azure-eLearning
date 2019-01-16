@@ -5,7 +5,7 @@
 
 
 
-# Beginning Serverless Architectures with Microsoft Azure [eLearning]
+# Beginning Serverless Architectures with Azure [eLearning]
 Microservices is fast becoming the preferred approach for application development. In this course, you'll start with the basics and progress on to the advanced topics. You'll begin by working through a single function and work towards integration with other Azure services, such as App Insights and Cosmos DB. You'll also learn to handle common user requirements, such as analytics and the high-performing distributed storage. Last, but not the least, you'll also be provided the context that you need to get started on a larger project. 
 
 
