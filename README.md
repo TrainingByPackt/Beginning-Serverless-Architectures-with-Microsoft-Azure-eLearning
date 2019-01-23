@@ -1,11 +1,11 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Azure-eLearning/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Beginning-Serverless-Architectures-with-Microsoft-Azure-eLearning/pulls)
 
 
 
-# Beginning Serverless Architectures with Azure [eLearning]
+# Beginning Serverless Architectures with Microsoft Azure [eLearning]
 Microservices is fast becoming the preferred approach for application development. In this course, you'll start with the basics and progress on to the advanced topics. You'll begin by working through a single function and work towards integration with other Azure services, such as App Insights and Cosmos DB. You'll also learn to handle common user requirements, such as analytics and the high-performing distributed storage. Last, but not the least, you'll also be provided the context that you need to get started on a larger project. 
 
 
